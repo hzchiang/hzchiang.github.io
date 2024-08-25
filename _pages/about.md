@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,6 +8,10 @@ redirect_from:
 ---
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+
+I am a Master’s student in the [School of Electrical and Computer Engineering](https://coe.gatech.edu/schools/electrical-and-computer-engineering) at the [Georgia Institute of Technology](https://www.gatech.edu/) (Georgia Tech). Simultaneously, I am also pursuing a Master’s degree in Electrical Engineering at [Tianjin University](https://www.tju.edu.cn/english/). I am fortunate to be advised by [Prof. Xiangyu Kong](https://www.scopus.com/authid/detail.uri?authorId=56496085900) from the [Key Laboratory of the Ministry of Education on Smart Power Grids](https://seea.tju.edu.cn/info/1105/1712.htm).
+
+My research revolves around prediction and decision-making in cyber-physical energy systems. My current research interests lie broadly in demand response in smart grids, distributed energy resources management, decarbonization of cyber-physical energy systems, and decision-making under uncertainty.
 
 A data-driven personal website
 ======
