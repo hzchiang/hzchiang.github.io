@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Miscellany"
-permalink: /miscellany/
+title: "MISC"
+permalink: /misc/
 author_profile: true
 redirect_from:
-  - /misc/
+  - /miscellany/
   - /miscellaneous/
 ---
 
